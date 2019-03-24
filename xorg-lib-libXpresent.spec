@@ -2,7 +2,7 @@ Summary:	Xpresent extension library
 Summary(pl.UTF-8):	Biblioteka rozszerzenia Xpresent
 Name:		xorg-lib-libXpresent
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXpresent-%{version}.tar.bz2
